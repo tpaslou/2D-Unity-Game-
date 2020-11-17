@@ -1,23 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="58fe89a5-8a93-4fac-863c-a0168dc79227" name="Default Changelist" comment="" />
+    <list default="true" id="58fe89a5-8a93-4fac-863c-a0168dc79227" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SuperSpartyBros/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SuperSpartyBros/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SuperSpartyBros/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SuperSpartyBros/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Enemy/Enemy_Idle_1.psd.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Enemy/Enemy_Idle_1.psd.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Enemy/Enemy_Idle_2.psd.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Enemy/Enemy_Idle_2.psd.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Enemy/Enemy_Stun_1.psd.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Enemy/Enemy_Stun_1.psd.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Enemy/Enemy_Stun_2.psd.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Enemy/Enemy_Stun_2.psd.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Enemy/Enemy_Stun_3.psd.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Enemy/Enemy_Stun_3.psd.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Enemy/Enemy_Walk_1.psd.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Enemy/Enemy_Walk_1.psd.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Enemy/Enemy_Walk_2.psd.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Enemy/Enemy_Walk_2.psd.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Objects/CoinIdle_1.psd.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Objects/CoinIdle_1.psd.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Objects/CoinIdle_2.psd.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Objects/CoinIdle_2.psd.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CharacterController2D.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CharacterController2D.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EnemyStun.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/EnemyStun.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/AnnotationManager" beforeDir="false" afterPath="$PROJECT_DIR$/Library/AnnotationManager" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/02/0248885289900400d2a5568f28366ee7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/0b/0bee94eea330b8782104a7507cac8421" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/22/22bc4be156dc9e96766f14e45104c2d3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/61/61446b38fffee61cd0f95cf7564b5585" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/67/6719bb0b0a9d1946d88903704b184aa3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/67/676bcbf66c9dd430ec0282ffa985c9c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/82/82d62dd35de975d4cb238bffa2781980" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/9c/9cea7a723ed94ccd2cd75587f837ba22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d0/d0073ad9fbb54d194ffc1985235481df" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/e5/e5850678ace2190fd1037b6d3c698444" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/33912c-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/33912c-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/067c0b-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/067c0b-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterController2D.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Coin.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DeathZone.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Victory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterController2D.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyStun.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1k0oovpPxJ6riO9dnoq1ZMAx3Wx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -57,6 +120,9 @@
       <option name="presentableId" value="Default" />
       <updated>1604847050012</updated>
       <workItem from="1604847060644" duration="1324000" />
+      <workItem from="1605117924394" duration="2446000" />
+      <workItem from="1605390772914" duration="1800000" />
+      <workItem from="1605464112056" duration="2067000" />
     </task>
     <servers />
   </component>
@@ -65,6 +131,18 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
